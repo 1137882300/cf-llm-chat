@@ -11,7 +11,9 @@ Workers AI](https://developers.cloudflare.com/workers-ai/))
 git clone https://github.com/megaconfidence/llm-chat.git
 cd llm-chat
 npm i
+npx wrangler login
 npm run dev
+npm run deploy
 
 ```
 
