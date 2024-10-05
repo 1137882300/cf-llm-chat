@@ -1,5 +1,5 @@
 {
-  "name": "llm-chat",
+  "name": "cf-llm-chat",
   "version": "1.0.0",
   "description": "Just a simple HTML UI for Ollama",
   "main": "api.js",
